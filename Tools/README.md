@@ -7,7 +7,7 @@ scancel <jobid>     #cancel one job
 ```
 
 
-# Usefull Ubuntu commands
+# Useful Ubuntu commands
 ```
 df -h  #check disk space
 du -cBG --max-depth=1 2> >(grep -v 'Permission denied') | sort -n  #check current folder space
@@ -20,7 +20,7 @@ Delete the vscode folder ~/?vscode?
 ```
 
 
-# Usefull notes
+# Useful notes
 
 Using wget to download file from google drive
 ```
